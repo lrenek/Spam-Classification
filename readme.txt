@@ -22,4 +22,7 @@ Pandas:
 To install, type the command at the command prompt: pip install –upgrade pandas.
 Scikit-learn:
 To install, type the command at the command prompt: pip install –upgrade scikit-learn.
-
+Tensorflow:
+To install, type the command at the command prompt: pip install –upgrade tensoflow.
+Keras:
+To install, type the command at the command prompt: pip install –upgrade keras.
